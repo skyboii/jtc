@@ -1,0 +1,32 @@
+[
+    {
+      "firstName": "akash",
+      "lastName": "kr",
+      "phoneNumber": "123456",
+      "emailAddress": "akash.kr@gmail.com"
+    },
+    {
+      "firstName": "ra",
+      "lastName": "one",
+      "phoneNumber": "222222",
+      "emailAddress": "raone@gmail.com"
+    },
+    {
+      "firstName": "bread",
+      "lastName": "butter",
+      "phoneNumber": "33333333",
+      "emailAddress": "breadbutter@outlook.com"
+    },
+    {
+      "firstName": "akhil",
+      "lastName": "tripathi",
+      "phoneNumber": "44444444",
+      "emailAddress": "akhiltripathi@gmail.com"
+    },
+    {
+      "firstName": "atrip",
+      "lastName": "at",
+      "phoneNumber": "555555",
+      "emailAddress": "atripat@ucl.com"
+    }
+  ]
